@@ -1,0 +1,1 @@
+The dataset has been obtained from Kaggle, from the user Amrutha Yenikonda, this dataset will be used to practice data cleaning and manipulation like removing unwanted columns, nulls, removing symbols, etc.
