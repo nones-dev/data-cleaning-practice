@@ -6,7 +6,7 @@ The [dataset](https://www.kaggle.com/datasets/amruthayenikonda/dirty-dataset-to-
 - **Original Size:** 11 columns and 21 rows (including header).
 - **Subject:** A list of the highest-grossing music tours by women.
 
-### First I start by importing the dataset to Google Sheets**
+### First I start by importing the dataset to Google Sheets
 ### Raw Data Preview
 Before processing, the dataset contained inconsistent headers, Wikipedia-style citations, and mixed data types.
 
